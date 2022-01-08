@@ -1,5 +1,6 @@
 # Gasoline
 
+
 gallons_gas = input("Enter gallons of Gassoline: ")
 
 gallons_gas = float(gallons_gas)
@@ -25,4 +26,4 @@ print("ethanol: ", ethanol)
 #U.S dollar
 
 dollar = gallons_gas * 4.00
-print("dollar: ", dollar) 
+print("dollar: ", dollar)
